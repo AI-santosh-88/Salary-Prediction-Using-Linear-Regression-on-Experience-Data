@@ -12,7 +12,7 @@ Use historical data to create a linear regression model that predicts salaries a
 With an R² score of 0.974, the model explains ~97.4% of the salary variance using experience alone. This high level of accuracy can be extremely useful in real-world HR analytics scenarios.
 
 ## Description: 
-* project explores a simple linear regression model to predict salaries based on years of professional experience. The dataset contains only two variables — Years of Experience and Salary — making it a classic and intuitive example of a univariate regression problem. The objective is to build a predictive model that accurately estimates salary, validate its performance, and test the core assumptions of linear regression.
+project explores a simple linear regression model to predict salaries based on years of professional experience. The dataset contains only two variables — Years of Experience and Salary — making it a classic and intuitive example of a univariate regression problem. The objective is to build a predictive model that accurately estimates salary, validate its performance, and test the core assumptions of linear regression.
 
 ## Responsibilities:
 1.Data Exploration:
